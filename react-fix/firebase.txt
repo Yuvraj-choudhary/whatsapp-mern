@@ -1,0 +1,2 @@
+firebase deploy --only hosting:yuvraj-420
+"site": "yuvraj-420",
